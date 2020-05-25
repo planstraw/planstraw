@@ -1,6 +1,6 @@
 # Planstraw
 
-A android TV app developed using flutter based on -[this app](https://gitlab.com/ad-on-is/chillyflix)
+An android TV app developed using flutter based on [this app](https://gitlab.com/ad-on-is/chillyflix)
 
 ## Getting Started
 
